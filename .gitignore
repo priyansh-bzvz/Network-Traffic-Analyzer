@@ -1,0 +1,27 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+tmp*/
+*.tmp
+
+# Local reports and packet captures
+*.xlsx
+*.csv
+*.pcap
+*.pcapng
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
